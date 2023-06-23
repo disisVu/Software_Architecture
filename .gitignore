@@ -31,7 +31,7 @@
 .restart/
 
 # External configuration
-application.properties
+#application.properties
 
 # Spring Boot Actuator
 /actuator/
